@@ -39,7 +39,7 @@ export default function QuizComponent() {
   const currentQ = questions[currentIndex];
 
   return (
-    <div className="quiz-container">
+   
       <div className="quiz-card">
         <h1 className="quiz-title">Quiz App</h1>
 
@@ -99,6 +99,6 @@ export default function QuizComponent() {
           Question {currentIndex + 1} of {questions.length}
         </p>
       </div>
-    </div>
+   
   );
 }
