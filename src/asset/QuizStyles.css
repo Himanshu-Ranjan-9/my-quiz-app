@@ -11,9 +11,7 @@
 
 .quiz-card {
   background: #ffffff;
-  max-width: 800px;
-  width: 100%;
-  padding: 30px;
+ margin:10px;
   border-radius: 20px;
   box-shadow: 0 10px 25px rgba(0,0,0,0.15);
   border: 1px solid #ddd;
